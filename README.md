@@ -58,7 +58,7 @@ The project follows a structured analytical workflow:
 6.	Insight generation for stakeholder decision-making
 
 ## Dashboard Preview 
-![Veritas Bank Dashboard Overview](https://github.com/thecadMunik/customer_churn_and_retention/blob/main/image/overview.png)
+![Veritas Bank Dashboard Overview](https://github.com/thecadMunik/customer_churn_and_retention/blob/main/Power%20BI%20Dashboard/overview.png)
 
 ---
 ## 📌Key Metrics
