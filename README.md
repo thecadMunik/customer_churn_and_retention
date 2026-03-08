@@ -20,7 +20,7 @@ The primary objectives of this analysis are to:
 •	Support targeted retention and customer engagement strategies
 
 ## 📁 Dataset Description
-The dataset contains customer demographic and account-level attributes used to analyze behavioral patterns and identify churn risk indicators.
+The dataset I used contains customer demographic and account-level attributes used to analyze behavioral patterns and identify churn risk indicators.
 Key Dataset Fields
 Column	Description
 CustomerId	Unique customer identifier
@@ -91,4 +91,12 @@ Based on the findings from the analysis, the following strategies are recommende
 - Implement early intervention programs targeting high-risk and elevated-risk customer segments before churn occurs.
 - Strengthen loyalty and engagement initiatives for younger and middle-aged customers, who represent a large share of the future revenue base.
 - Shift from reactive churn management to proactive churn prevention, using regular monitoring of customer engagement and activity levels.
+
+### 🙌 Feedback Welcome
+
+Thank you for exploring my Churn and Retention Analysis project!  
+I’m always open to suggestions, improvements, or collaboration ideas.
+
+📩 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/munikat-abu)  
+📧 Or drop an email: **obehimunik@gmail.com**
 
