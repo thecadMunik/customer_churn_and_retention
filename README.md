@@ -58,8 +58,9 @@ The project follows a structured analytical workflow:
 6.	Insight generation for stakeholder decision-making
 
 ## Dashboard Preview 
-![Veritas Bank Dashboard Overview](https://github.com/thecadMunik/customer_churn_and_retention/blob/main/image/overview.png
+![Veritas Bank Dashboard Overview](https://github.com/thecadMunik/customer_churn_and_retention/blob/main/image/overview.png)
 
+---
 ## 📌Key Metrics
 - Total customers analyzed: 10,000
 - Overall churn rate across the dataset: 13.85%
